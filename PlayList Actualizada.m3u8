@@ -10,7 +10,7 @@ http://172.16.0.5:8000/play/a07e/index.m3u8
 http://172.16.0.5:8000/play/a0af/index.m3u8
 #EXTINF:0,Win Sports HD
 #EXTGRP:Nacionales
-http://172.16.0.5:8000/play/a0ae/index.m3u8
+http://172.16.0.5:8000/play/a0j9/index.m3u8
 #EXTINF:0,Win Sports+ HD
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a06g/index.m3u8
@@ -19,7 +19,7 @@ http://172.16.0.5:8000/play/a06g/index.m3u8
 http://172.16.0.5:8000/play/a087/index.m3u8
 #EXTINF:0,Señal Colombia HD
 #EXTGRP:Nacionales
-http://172.16.0.5:8000/play/a0ak/index.m3u8
+http://172.16.0.5:8000/play/a0gu/index.m3u8
 #EXTINF:0,TELECARIBE
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a04r/index.m3u8
@@ -49,7 +49,7 @@ http://172.16.0.5:8000/play/a0bd/index.m3u8
 http://172.16.0.5:8000/play/a09g/index.m3u8
 #EXTINF:0,CNN Español
 #EXTGRP:Internacionales
-http://172.16.0.5:8000/play/a0b9/index.m3u8
+http://172.16.0.5:8000/play/a0j8/index.m3u8
 #EXTINF:0,CUBAVISION
 #EXTGRP:Internacionales
 http://172.16.0.5:8000/play/a0bc/index.m3u8
@@ -58,7 +58,7 @@ http://172.16.0.5:8000/play/a0bc/index.m3u8
 http://172.16.0.5:8000/play/a0an/index.m3u8
 #EXTINF:0,El Gourmet HD
 #EXTGRP:Internacionales
-http://172.16.0.5:8000/play/a09s/index.m3u8
+http://172.16.0.5:8000/play/a0j6/index.m3u8
 #EXTINF:0,Food Network HD
 #EXTGRP:Internacionales
 http://172.16.0.5:8000/play/a0cu/index.m3u8
@@ -67,10 +67,7 @@ http://172.16.0.5:8000/play/a0cu/index.m3u8
 http://172.16.0.5:8000/play/a09j/index.m3u8
 #EXTINF:0,La Red HD
 #EXTGRP:Internacionales
-http://172.16.0.5:8000/play/a0co/index.m3u8
-#EXTINF:0,Playboy HD
-#EXTGRP:Internacionales
-http://172.16.0.5:8000/play/a0cr/index.m3u8
+http://172.16.0.5:8000/play/a0jd/index.m3u8
 #EXTINF:0,TVN HD
 #EXTGRP:Internacionales
 http://172.16.0.5:8000/play/a09f/index.m3u8
@@ -121,7 +118,7 @@ http://172.16.0.5:8000/play/a06c/index.m3u8
 http://172.16.0.5:8000/play/a09k/index.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
 #EXTGRP:Peliculas
-http://172.16.0.5:8000/play/a0bh/index.m3u8
+http://172.16.0.5:8000/play/a0iw/index.m3u8
 #EXTINF:0,Warner Channel HD
 #EXTGRP:Peliculas
 http://172.16.0.5:8000/play/a0a9/index.m3u8
@@ -133,7 +130,7 @@ http://172.16.0.5:8000/play/a0gr/index.m3u8
 http://172.16.0.5:8000/play/a067/index.m3u8
 #EXTINF:0,ATRES SERIES HD
 #EXTGRP:Series
-http://172.16.0.5:8000/play/a09n/index.m3u8
+http://172.16.0.5:8000/play/a0j5/index.m3u8
 #EXTINF:0,AXN HD
 #EXTGRP:Series
 http://172.16.0.5:8000/play/a0ah/index.m3u8
@@ -157,7 +154,7 @@ http://172.16.0.5:8000/play/a0a7/index.m3u8
 http://172.16.0.5:8000/play/a06h/index.m3u8
 #EXTINF:0,Clover HD
 #EXTGRP:Documentales
-http://172.16.0.5:8000/play/a0cm/index.m3u8
+http://172.16.0.5:8000/play/a0ja/index.m3u8
 #EXTINF:0,Comedy Central HD
 #EXTGRP:Documentales
 http://172.16.0.5:8000/play/a09p/index.m3u8
@@ -169,7 +166,7 @@ http://172.16.0.5:8000/play/a058/index.m3u8
 http://172.16.0.5:8000/play/a0bf/index.m3u8
 #EXTINF:0,Discovery HD
 #EXTGRP:Documentales
-http://172.16.0.5:8000/play/a06t/index.m3u8
+http://172.16.0.5:8000/play/a0j3/index.m3u8
 #EXTINF:0,Discovery Theater HD
 #EXTGRP:Documentales
 http://172.16.0.5:8000/play/a074/index.m3u8
@@ -211,7 +208,7 @@ http://172.16.0.5:8000/play/a07y/index.m3u8
 http://172.16.0.5:8000/play/a07x/index.m3u8
 #EXTINF:0,DISNEY XD
 #EXTGRP:Infantiles
-http://172.16.0.5:8000/play/a04v/index.m3u8
+http://172.16.0.5:8000/play/a07y/index.m3u8
 #EXTINF:0,Discovery Kids HD
 #EXTGRP:Infantiles
 http://172.16.0.5:8000/play/a0be/index.m3u8
@@ -227,6 +224,9 @@ http://172.16.0.5:8000/play/a0bu/index.m3u8
 #EXTINF:0,Espn 3
 #EXTGRP:Deportes
 http://172.16.0.5:8000/play/a0gf/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Deportes
+http://172.16.0.5:8000/play/a0jb/index.m3u8
 #EXTINF:0,ESPN 4 HD
 #EXTGRP:Deportes
 http://172.16.0.5:8000/play/a0fb/index.m3u8
@@ -268,10 +268,10 @@ http://172.16.0.5:8000/play/a0ac/index.m3u8
 http://172.16.0.5:8000/play/a0ap/index.m3u8
 #EXTINF:0,LAS ESTRELLAS HD
 #EXTGRP:Novelas
-http://172.16.0.5:8000/play/a0h0/index.m3u8
+http://172.16.0.5:8000/play/a0j2/index.m3u8
 #EXTINF:0,TNT NOVELAS HD
 #EXTGRP:Novelas
-http://172.16.0.5:8000/play/a06j/index.m3u8
+http://172.16.0.5:8000/play/a0iz/index.m3u8
 #EXTINF:0,PASIONES
 #EXTGRP:Novelas
 http://172.16.0.5:8000/play/a0c5/index.m3u8
@@ -289,7 +289,7 @@ http://172.16.0.5:8000/play/a0gw/index.m3u8
 http://172.16.0.5:8000/play/a09m/index.m3u8
 #EXTINF:0,MTV HD
 #EXTGRP:Musica
-http://172.16.0.5:8000/play/a06p/index.m3u8
+http://172.16.0.5:8000/play/a0j1/index.m3u8
 #EXTINF:0,MTV LIVE HD
 #EXTGRP:Musica
 http://172.16.0.5:8000/play/a077/index.m3u8
