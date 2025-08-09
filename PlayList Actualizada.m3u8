@@ -14,6 +14,9 @@ http://172.16.0.5:8000/play/a0j9/index.m3u8
 #EXTINF:0,Win Sports+ HD
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a06g/index.m3u8
+#EXTINF:0,Win Sports+ HD 2
+#EXTGRP:Nacionales
+http://172.16.0.5:8000/play/a101/index.m3u8
 #EXTINF:0,LA KALLE
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a087/index.m3u8
