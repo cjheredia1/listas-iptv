@@ -2,7 +2,7 @@
 #EXTINF:0,Caracol HD
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a06q/index.m3u8
-#EXTINF:0 tvg-logo:"http://172.16.0.5/home/cheredia/logos/Logo_RCN_Television.png",RCN Televisión
+#EXTINF:0,RCN Televisión
 #EXTGRP:Nacionales
 http://172.16.0.5:8000/play/a07e/index.m3u8
 #EXTINF:0,CANAL INSTITUCIONAL HD
