@@ -175,14 +175,6 @@ http://172.16.0.5:8000/play/a0gg/index.m3u8
 http://172.16.0.5:8000/play/a0ep/index.m3u8
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
 http://172.16.0.5:8000/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="287" group="Deportes", CLARO SPORT
-http://172.16.0.5:8000/play/a0aq/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes", DIRECT TV SPORT
-http://172.16.0.5:8000/play/a0rb/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes", DIRECT TV SPORT 2
-http://172.16.0.5:8000/play/a0r8/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes", DIRECT TV SPORT +
-http://172.16.0.5:8000/play/a0r9/index.m3u8
 #EXTINF:0 type="stream" channelId="1686" group="Deportes", GolTV HD
 http://172.16.0.5:8000/play/a0ao/index.m3u8
 #EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
