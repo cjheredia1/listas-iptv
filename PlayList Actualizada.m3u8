@@ -72,7 +72,7 @@ http://172.16.0.5:8000/play/a06w/index.m3u8
 #EXTINF:0 type="stream" channelId="2583" group="Peliculas", HBO Signature
 http://172.16.0.5:8000/play/a10a/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO PLUS
-http://172.16.0.5:8000/play/a0l4/index.m3u8
+http://172.16.0.5:8000/play/a06f/index.m3u8
 #EXTINF:0 type="stream" channelId="361" group="Peliculas", HBO POP HD
 http://172.16.0.5:8000/play/a0fg/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="Peliculas", HBO XTREME HD
