@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1 group-title="-",A&E HD
 http://192.168.200.18:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="-",AMC HD
