@@ -14,15 +14,15 @@ http://172.16.0.4:8869/play/a06g?ts
 #EXTINF:0 type="stream" channelId="4789" group="Nacionales", Win Sports+ HD 2
 http://172.16.0.5:8869/play/a101/index.m3u8
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD 2
-http://172.16.0.4:0:8869/play/a001/index.m3u8
+http://172.16.0.4:8869/play/a001?ts
 #EXTINF:0 type="stream" channelId="-1" group="Nacionales", LA KALLE
 http://172.16.0.5:8869/play/a087/index.m3u8
 #EXTINF:0 type="stream" channelId="4649" group="Nacionales", CANAL INSTITUCIONAL HD
 http://172.16.0.5:8869/play/a0af/index.m3u8
 #EXTINF:0 type="stream" channelId="2488" group="Nacionales", Señal Colombia HD
-http://172.16.0.5:8869/play/a0rn/index.m3u8
+http://172.16.0.5:8869/play/a0rn?ts
 #EXTINF:0 type="stream" channelId="4785" group="Nacionales", TELECARIBE
-http://172.16.0.5:8869/play/a04r/index.m3u8
+http://172.16.0.5:8869/play/a04r?ts
 #EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
 http://172.16.0.5:8869/play/a063/index.m3u8
 #EXTINF:0 type="stream" channelId="3780" group="Internacionales", NTN24
@@ -67,6 +67,8 @@ http://172.16.0.5:8869/play/a0al/index.m3u8
 http://172.16.0.5:8869/play/a0tl/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
 http://172.16.0.5:8869/play/a05r/index.m3u8
+#EXTINF:0 type="stream" channelId="1331" group="Peliculas", HBO2 HD
+http://172.16.0.4:8869/play/a02z?ts
 #EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
 http://172.16.0.5:8869/play/a06w/index.m3u8
 #EXTINF:0 type="stream" channelId="2583" group="Peliculas", HBO Signature
@@ -86,7 +88,7 @@ http://172.16.0.5:8869/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
 http://172.16.0.5:8869/play/a0ab/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
-http://172.16.0.5:8869/play/a06c/index.m3u8
+http://172.16.0.4:8869/play/a02y?ts
 #EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
 http://172.16.0.5:8869/play/a09k/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", UNIVERSAL CHANNEL HD
@@ -102,7 +104,7 @@ http://172.16.0.5:8869/play/a067/index.m3u8
 #EXTINF:0 type="stream" channelId="3640" group="Series", ATRES SERIES HD
 http://172.16.0.5:8869/play/a0j5/index.m3u8
 #EXTINF:0 type="stream" channelId="2246" group="Series", AXN HD
-http://172.16.0.5:8869/play/a0ah/index.m3u8
+http://172.16.0.5:8869/play/a0ah?ts
 #EXTINF:0 type="stream" channelId="292" group="Series", MULTIPREMIER
 http://172.16.0.5:8869/play/a051/index.m3u8
 #EXTINF:0 type="stream" channelId="530" group="Series", Sony HD
@@ -143,22 +145,22 @@ http://172.16.0.5:8869/play/a064/index.m3u8
 http://172.16.0.5:8869/play/a071/index.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="Documentales", Discovery Turbo
 http://172.16.0.5:8869/play/a0c2/index.m3u8
-#EXTINF:0 type="stream" channelId="1305" group="Infantiles", CARTOONITO
-http://172.16.0.5:8869/play/a03x/index.m3u8
+#EXTINF:0 type="stream" channelId="1305" group="Infantiles", PLIM PLIM
+http://172.16.0.5:8869/play/a024?ts
 #EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
-http://172.16.0.5:8869/play/a0ar/index.m3u8
+http://172.16.0.5:8869/play/a0ar?ts
 #EXTINF:0 type="stream" channelId="2720" group="Infantiles", Disney Channel HD
-http://172.16.0.5:8869/play/a0tv/index.m3u8
+http://172.16.0.5:8869/play/a0tv?ts
 #EXTINF:0 type="stream" channelId="3331" group="Infantiles", Disney Junior HD
-http://172.16.0.5:8869/play/a07x/index.m3u8
+http://172.16.0.5:8869/play/a07x?ts
 #EXTINF:0 type="stream" channelId="1198" group="Infantiles", DISNEY XD
-http://172.16.0.5:8869/play/a07y/index.m3u8
+http://172.16.0.5:8869/play/a01y?ts
 #EXTINF:0 type="stream" channelId="2837" group="Infantiles", Discovery Kids HD
-http://172.16.0.5:8869/play/a0be/index.m3u8
+http://172.16.0.5:8869/play/a0be?ts
 #EXTINF:0 type="stream" channelId="334" group="Infantiles", Nick HD
-http://172.16.0.5:8869/play/a0ag/index.m3u8
+http://172.16.0.5:8869/play/a0ag?ts
 #EXTINF:0 type="stream" channelId="-1" group="Infantiles", TOOMCAST
-http://172.16.0.5:8869/play/a0bu/index.m3u8
+http://172.16.0.5:8869/play/a0bu?ts
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
 #EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
@@ -178,7 +180,7 @@ http://172.16.0.5:8869/play/a091/index.m3u8
 #EXTINF:0 type="stream" channelId="1686" group="Deportes", GolTV HD
 http://172.16.0.5:8869/play/a0ug/index.m3u8
 #EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
-http://172.16.0.5:8869/play/a0ac/index.m3u8
+http://172.16.0.5:8869/play/a0ac?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
 http://172.16.0.5:8869/play/a0j2/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
