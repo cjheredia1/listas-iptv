@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD
-http://172.16.0.4:8869/play/a06q/index.m3u8
+http://172.16.0.4:8869/play/a06q/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales", RCN Televisión
-http://172.16.0.5:8869/play/a07e/index.m3u8
+http://172.16.0.5:8869/play/a07e/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
 http://172.16.0.5:8869/play/a13h/index.m3u8
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales", Canal 1
