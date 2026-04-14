@@ -65,6 +65,24 @@ http://172.16.0.5:8869/play/a0iw/index.m3u8
 http://172.16.0.5:8869/play/a0a9/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
 http://172.16.0.5:8869/play/a0xj/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
+http://172.16.0.5:8869/play/a08p/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
+http://172.16.0.5:8869/play/a0jb/index.m3u8
+#EXTINF:0 type="stream" channelId="355" group="Deportes", Espn 3
+http://172.16.0.5:8869/play/a0gf/index.m3u8
+#EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4 HD
+http://172.16.0.5:8869/play/a0fb/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 5HD
+http://172.16.0.5:8869/play/a08m/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 6 HD
+http://172.16.0.5:8869/play/a0gg/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 7HD
+http://172.16.0.5:8869/play/a0ep/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
+http://172.16.0.5:8869/play/a091/index.m3u8
+#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
+http://172.16.0.5:8869/play/a0ac?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
 http://172.16.0.5:8869/play/a0j2/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
@@ -135,26 +153,6 @@ http://172.16.0.5:8869/play/a0be?ts
 http://172.16.0.5:8869/play/a0ag?ts
 #EXTINF:0 type="stream" channelId="-1" group="Infantiles", TOOMCAST
 http://172.16.0.5:8869/play/a0bu?ts
-#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
-http://172.16.0.5:8869/play/a08p/index.m3u8
-#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
-http://172.16.0.5:8869/play/a0jb/index.m3u8
-#EXTINF:0 type="stream" channelId="355" group="Deportes", Espn 3
-http://172.16.0.5:8869/play/a0gf/index.m3u8
-#EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4 HD
-http://172.16.0.5:8869/play/a0fb/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 5HD
-http://172.16.0.5:8869/play/a08m/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 6 HD
-http://172.16.0.5:8869/play/a0gg/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 7HD
-http://172.16.0.5:8869/play/a0ep/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
-http://172.16.0.5:8869/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="1686" group="Deportes", GolTV HD
-http://172.16.0.5:8869/play/a0ug/index.m3u8
-#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
-http://172.16.0.5:8869/play/a0ac?ts
 #EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
 http://172.16.0.5:8869/play/a063/index.m3u8
 #EXTINF:0 type="stream" channelId="3780" group="Internacionales", NTN24
