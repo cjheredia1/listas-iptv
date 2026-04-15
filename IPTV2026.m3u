@@ -49,7 +49,7 @@ http://172.16.0.5:8869/play/a0fg/index.m3u8
 http://172.16.0.5:8869/play/a06x/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" group="Peliculas", CINEMAX
 http://172.16.0.5:8869/play/a09o/index.m3u8
-#EXTINF:0 type="stream" channelId="1497" group="Peliculas", Paramount HD
+#EXTINF:0 type="stream" channelId="1497" group="Peliculas", TCM HD
 http://172.16.0.5:8869/play/a06b/index.m3u8
 #EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
 http://172.16.0.5:8869/play/a06n/index.m3u8
