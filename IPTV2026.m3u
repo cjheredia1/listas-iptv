@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD
 http://172.16.0.4:8869/play/a06q?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales", RCN Televisión
-http://172.16.0.4:8869/play/a07e/index.m3u8?hls
+http://172.16.0.4:8869/play/a07e?ts
 #EXTINF:0 type="stream" channelId="4788" group="Nacionales", Win Sports HD
 http://172.16.0.5:8869/play/a0j9?ts
 #EXTINF:0 type="stream" channelId="4789" group="Nacionales", Win Sports+ HD
@@ -12,9 +12,9 @@ http://172.16.0.5:8869/play/a001?ts
 #EXTINF:0 type="stream" channelId="-1" group="Nacionales", LA KALLE
 http://172.16.0.5:8869/play/a087/index.m3u8
 #EXTINF:0 type="stream" channelId="4649" group="Nacionales", CANAL INSTITUCIONAL HD
-http://172.16.0.4:8869/play/a0af/index.m3u8?hls
+http://172.16.0.4:8869/play/a0af?ts
 #EXTINF:0 type="stream" channelId="2488" group="Nacionales", Señal Colombia HD
-http://172.16.0.4:8869/play/a0rn/index.m3u8?hls
+http://172.16.0.4:8869/play/a0rn?ts
 #EXTINF:0 type="stream" channelId="4785" group="Nacionales", TELECARIBE
 http://172.16.0.5:8869/play/a04r?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
