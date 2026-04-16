@@ -17,6 +17,8 @@ http://172.16.0.4:8869/play/a0af?ts
 http://172.16.0.4:8869/play/a0rn?ts
 #EXTINF:0 type="stream" channelId="4785" group="Nacionales", TELECARIBE
 http://172.16.0.5:8869/play/a04r?ts
+#EXTINF:0 type="stream" channelId="4723" group="Nacionales", TV AGRO
+http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
 http://172.16.0.5:8869/play/a13h/index.m3u8
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales", Canal 1
