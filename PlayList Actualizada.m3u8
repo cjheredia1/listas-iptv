@@ -177,8 +177,6 @@ http://172.16.0.5:8869/play/a0gg/index.m3u8
 http://172.16.0.5:8869/play/a0ep/index.m3u8
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
 http://172.16.0.5:8869/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="1686" group="Deportes", GolTV HD
-http://172.16.0.5:8869/play/a0ug/index.m3u8
 #EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
 http://172.16.0.5:8869/play/a0ac?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
@@ -187,21 +185,7 @@ http://172.16.0.5:8869/play/a0j2/index.m3u8
 http://172.16.0.5:8869/play/a0iz/index.m3u8
 #EXTINF:0 type="stream" channelId="4661" group="Novelas", PASIONES
 http://172.16.0.5:8869/play/a0c5/index.m3u8
-#EXTINF:0 type="stream" channelId="4696" group="Novelas", STAR TVE HD
-http://172.16.0.5:8869/play/a06d/index.m3u8
-#EXTINF:0 type="stream" channelId="3209" group="Novelas", UNIVISION WEST
-http://172.16.0.5:8869/play/a0br/index.m3u8
 #EXTINF:0 type="stream" channelId="1483" group="Musica", STINGRAY CONCERT
 http://172.16.0.5:8869/play/a0gw/index.m3u8
-#EXTINF:0 type="stream" channelId="5220" group="Musica", MTV 00s
-http://172.16.0.5:8869/play/a09m/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="237" group="Musica", MTV LIVE HD
-http://172.16.0.5:8869/play/a077/index.m3u8
-#EXTINF:0 type="stream" channelId="517" group="Adultos 18", Playboy HD
-http://172.16.0.5:8869/play/a0ls/index.m3u8
-#EXTINF:0 type="stream" channelId="2721" group="Adultos 18", Venus
-http://172.16.0.5:8869/play/a0ui/index.m3u8
-#EXTINF:0 type="stream" channelId="2152" group="Adultos 18", SeXtreme
-http://172.16.0.5:8869/play/a0uj/index.m3u8
