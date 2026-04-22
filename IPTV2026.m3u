@@ -18,11 +18,11 @@ http://172.16.0.5:8869/play/a04r?ts
 #EXTINF:0 type="stream" channelId="4786" group="Nacionales", TELECARIBE PLUS
 http://172.16.0.5:8869/play/a02y?ts
 #EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITY TV
-http://172.16.0.5:8869/play/a04r?ts
+http://172.16.0.5:8869/play/a031?ts
 #EXTINF:0 type="stream" channelId="4791" group="Nacionales", CANAL CAPITAL
-http://172.16.0.5:8869/play/a04r?ts
+http://172.16.0.5:8869/play/a02v?ts
 #EXTINF:0 type="stream" channelId="4792" group="Nacionales", TELE ANTIOQUIA
-http://172.16.0.5:8869/play/a04r?ts
+http://172.16.0.5:8869/play/a02w?ts
 #EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
