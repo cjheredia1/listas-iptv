@@ -51,14 +51,12 @@ http://172.16.0.5:8869/play/a0fg/index.m3u8
 http://172.16.0.5:8869/play/a06x/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" group="Peliculas", CINEMAX
 http://172.16.0.5:8869/play/a09o/index.m3u8
-#EXTINF:0 type="stream" channelId="1497" group="Peliculas", TCM HD
-http://172.16.0.5:8869/play/a06b?ts
 #EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
 http://172.16.0.5:8869/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
 http://172.16.0.5:8869/play/a0ab/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
-http://172.16.0.4:8869/play/a02y?ts
+http://172.16.0.5:8869/play/a03q?ts
 #EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
 http://172.16.0.5:8869/play/a09k/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", UNIVERSAL CHANNEL HD
@@ -67,6 +65,8 @@ http://172.16.0.5:8869/play/a0iw/index.m3u8
 http://172.16.0.5:8869/play/a0a9/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
 http://172.16.0.5:8869/play/a0xj/index.m3u8
+#EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
+http://172.16.0.5:8869/play/a03r?ts
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
@@ -87,6 +87,8 @@ http://172.16.0.5:8869/play/a0ep/index.m3u8
 http://172.16.0.5:8869/play/a091/index.m3u8
 #EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
 http://172.16.0.5:8869/play/a0ac?ts
+#EXTINF:0 type="stream" channelId="1497" group="Deportes", TyC Sports HD
+http://172.16.0.5:8869/play/a03a?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
 http://172.16.0.5:8869/play/a0j2/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
@@ -187,9 +189,5 @@ http://172.16.0.5:8869/play/a09j/index.m3u8
 http://172.16.0.5:8869/play/a0jd/index.m3u8
 #EXTINF:0 type="stream" channelId="3174" group="Internacionales", TVN HD
 http://172.16.0.5:8869/play/a09f/index.m3u8
-#EXTINF:0 type="stream" channelId="1483" group="Musica", STINGRAY CONCERT
-http://172.16.0.5:8869/play/a0gw/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="237" group="Musica", MTV LIVE HD
-http://172.16.0.5:8869/play/a077/index.m3u8
