@@ -2,57 +2,33 @@
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD
 http://172.16.0.4:8869/play/a06q?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales", RCN Televisión
-http://172.16.0.4:8869/play/a07e/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
-http://172.16.0.5:8869/play/a13h/index.m3u8
-#EXTINF:0 type="stream" channelId="4775" group="Nacionales", Canal 1
-http://172.16.0.5:8869/play/a0gu/index.m3u8
+http://172.16.0.4:8869/play/a07e?ts
 #EXTINF:0 type="stream" channelId="4788" group="Nacionales", Win Sports HD
 http://172.16.0.5:8869/play/a0j9?ts
 #EXTINF:0 type="stream" channelId="4789" group="Nacionales", Win Sports+ HD
 http://172.16.0.4:8869/play/a06g?ts
-#EXTINF:0 type="stream" channelId="4789" group="Nacionales", Win Sports+ HD 2
-http://172.16.0.5:8869/play/a101/index.m3u8
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD 2
 http://172.16.0.5:8869/play/a001?ts
-#EXTINF:0 type="stream" channelId="-1" group="Nacionales", LA KALLE
-http://172.16.0.5:8869/play/a087/index.m3u8
 #EXTINF:0 type="stream" channelId="4649" group="Nacionales", CANAL INSTITUCIONAL HD
-http://172.16.0.4:8869/play/a0af/index.m3u8?hls
+http://172.16.0.4:8869/play/a0af?ts
 #EXTINF:0 type="stream" channelId="2488" group="Nacionales", Señal Colombia HD
-http://172.16.0.4:8869/play/a0rn/index.m3u8?hls
+http://172.16.0.4:8869/play/a0rn?ts
 #EXTINF:0 type="stream" channelId="4785" group="Nacionales", TELECARIBE
 http://172.16.0.5:8869/play/a04r?ts
-#EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
-http://172.16.0.5:8869/play/a063/index.m3u8
-#EXTINF:0 type="stream" channelId="3780" group="Internacionales", NTN24
-http://172.16.0.5:8869/play/a0gp/index.m3u8
-#EXTINF:0 type="stream" channelId="2545" group="Internacionales", LATINA HD
-http://172.16.0.5:8869/play/a0gy/index.m3u8
-#EXTINF:0 type="stream" channelId="661" group="Internacionales", CANAL 24 HORAS HD
-http://172.16.0.5:8869/play/a0gz/index.m3u8
-#EXTINF:0 type="stream" channelId="3986" group="Internacionales", Canal 13 HD
-http://172.16.0.5:8869/play/a06i/index.m3u8
-#EXTINF:0 type="stream" channelId="2553" group="Internacionales", BETHEL TV
-http://172.16.0.5:8869/play/a0bd/index.m3u8
-#EXTINF:0 type="stream" channelId="3037" group="Internacionales", CHV HD
-http://172.16.0.5:8869/play/a09g/index.m3u8
-#EXTINF:0 type="stream" channelId="1972" group="Internacionales", CNN Español
-http://172.16.0.5:8869/play/a0j8/index.m3u8
-#EXTINF:0 type="stream" channelId="368" group="Internacionales", CUBAVISION
-http://172.16.0.5:8869/play/a0bc/index.m3u8
-#EXTINF:0 type="stream" channelId="3124" group="Internacionales", E! HD
-http://172.16.0.5:8869/play/a0an/index.m3u8
-#EXTINF:0 type="stream" channelId="310" group="Internacionales", El Gourmet HD
-http://172.16.0.5:8869/play/a0j6/index.m3u8
-#EXTINF:0 type="stream" channelId="1720" group="Internacionales", Food Network HD
-http://172.16.0.5:8000/play/a0cu/index.m3u8
-#EXTINF:0 type="stream" channelId="3713" group="Internacionales", HOLA TV HD
-http://172.16.0.5:8869/play/a09j/index.m3u8
-#EXTINF:0 type="stream" channelId="1745" group="Internacionales", La Red HD
-http://172.16.0.5:8869/play/a0jd/index.m3u8
-#EXTINF:0 type="stream" channelId="3174" group="Internacionales", TVN HD
-http://172.16.0.5:8869/play/a09f/index.m3u8
+#EXTINF:0 type="stream" channelId="4786" group="Nacionales", TELECARIBE PLUS
+http://172.16.0.5:8869/play/a02y?ts
+#EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITYTV
+http://172.16.0.5:8869/play/a031?ts
+#EXTINF:0 type="stream" channelId="4791" group="Nacionales", CANAL CAPITAL
+http://172.16.0.5:8869/play/a02v?ts
+#EXTINF:0 type="stream" channelId="4792" group="Nacionales", TELE ANTIOQUIA
+http://172.16.0.5:8869/play/a02w?ts
+#EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
+http://172.16.0.5:8869/play/a03c?ts
+#EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
+http://172.16.0.5:8869/play/a13h/index.m3u8
+#EXTINF:0 type="stream" channelId="4775" group="Nacionales", Canal 1
+http://172.16.0.5:8869/play/a0gu/index.m3u8
 #EXTINF:0 type="stream" channelId="2725" group="Peliculas", HBO MUVDI
 http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Peliculas", Cinecanal HD
@@ -81,14 +57,12 @@ http://172.16.0.5:8869/play/a0fg/index.m3u8
 http://172.16.0.5:8869/play/a06x/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" group="Peliculas", CINEMAX
 http://172.16.0.5:8869/play/a09o/index.m3u8
-#EXTINF:0 type="stream" channelId="1497" group="Peliculas", Paramount HD
-http://172.16.0.5:8869/play/a06b/index.m3u8
 #EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
 http://172.16.0.5:8869/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
 http://172.16.0.5:8869/play/a0ab/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
-http://172.16.0.4:8869/play/a02y?ts
+http://172.16.0.5:8869/play/a03q?ts
 #EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
 http://172.16.0.5:8869/play/a09k/index.m3u8
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", UNIVERSAL CHANNEL HD
@@ -97,6 +71,38 @@ http://172.16.0.5:8869/play/a0iw/index.m3u8
 http://172.16.0.5:8869/play/a0a9/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
 http://172.16.0.5:8869/play/a0xj/index.m3u8
+#EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
+http://172.16.0.5:8869/play/a03r?ts
+#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
+http://172.16.0.5:8869/play/a08p/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
+http://172.16.0.5:8869/play/a06u/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
+http://172.16.0.5:8869/play/a0jb/index.m3u8
+#EXTINF:0 type="stream" channelId="355" group="Deportes", Espn 3
+http://172.16.0.5:8869/play/a0gf/index.m3u8
+#EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4 HD
+http://172.16.0.5:8869/play/a0fb/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 5HD
+http://172.16.0.5:8869/play/a08m/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 6 HD
+http://172.16.0.5:8869/play/a0gg/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 7HD
+http://172.16.0.5:8869/play/a0ep/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
+http://172.16.0.5:8869/play/a091/index.m3u8
+#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
+http://172.16.0.5:8869/play/a0ac?ts
+#EXTINF:0 type="stream" channelId="1497" group="Deportes", TyC Sports HD
+http://172.16.0.5:8869/play/a03a?ts
+#EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
+http://172.16.0.5:8869/play/a0j2/index.m3u8
+#EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
+http://172.16.0.5:8869/play/a0iz/index.m3u8
+#EXTINF:0 type="stream" channelId="4661" group="Novelas", PASIONES
+http://172.16.0.5:8869/play/a0c5/index.m3u8
+#EXTINF:0 type="stream" channelId="4662" group="Novelas", Telemundo
+http://172.16.0.5:8869/play/a0z5/index.m3u8
 #EXTINF:0 type="stream" channelId="1044" group="Series", KANAL D DRAMA HD
 http://172.16.0.5:8869/play/a0gr/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="Series", AMC HD
@@ -110,7 +116,7 @@ http://172.16.0.5:8869/play/a051/index.m3u8
 #EXTINF:0 type="stream" channelId="530" group="Series", Sony HD
 http://172.16.0.5:8869/play/a0a8/index.m3u8
 #EXTINF:0 type="stream" channelId="67" group="Series", TLC
-http://172.16.0.5:8869/play/a0b2/index.m3u8
+http://172.16.0.5:8869/play/a01z/index.m3u8
 #EXTINF:0 type="stream" channelId="3797" group="Series", TNT SERIES HD
 http://172.16.0.5:8869/play/a0bl/index.m3u8
 #EXTINF:0 type="stream" channelId="1221" group="Documentales", FILM ART
@@ -147,6 +153,8 @@ http://172.16.0.5:8869/play/a071/index.m3u8
 http://172.16.0.5:8869/play/a0c2/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="Infantiles", PLIM PLIM
 http://172.16.0.5:8869/play/a024?ts
+#EXTINF:0 type="stream" channelId="1306" group="Infantiles", Baby TV
+http://172.16.0.5:8869/play/a01s?ts
 #EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
 http://172.16.0.5:8869/play/a0ar?ts
 #EXTINF:0 type="stream" channelId="2720" group="Infantiles", Disney Channel HD
@@ -161,31 +169,37 @@ http://172.16.0.5:8869/play/a0be?ts
 http://172.16.0.5:8869/play/a0ag?ts
 #EXTINF:0 type="stream" channelId="-1" group="Infantiles", TOOMCAST
 http://172.16.0.5:8869/play/a0bu?ts
-#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
-http://172.16.0.5:8869/play/a08p/index.m3u8
-#EXTINF:0 type="stream" channelId="344" group="Deportes", ESPN 2
-http://172.16.0.5:8869/play/a0jb/index.m3u8
-#EXTINF:0 type="stream" channelId="355" group="Deportes", Espn 3
-http://172.16.0.5:8869/play/a0gf/index.m3u8
-#EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4 HD
-http://172.16.0.5:8869/play/a0fb/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 5HD
-http://172.16.0.5:8869/play/a08m/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 6 HD
-http://172.16.0.5:8869/play/a0gg/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 7HD
-http://172.16.0.5:8869/play/a0ep/index.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
-http://172.16.0.5:8869/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
-http://172.16.0.5:8869/play/a0ac?ts
-#EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
-http://172.16.0.5:8869/play/a0j2/index.m3u8
-#EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
-http://172.16.0.5:8869/play/a0iz/index.m3u8
-#EXTINF:0 type="stream" channelId="4661" group="Novelas", PASIONES
-http://172.16.0.5:8869/play/a0c5/index.m3u8
-#EXTINF:0 type="stream" channelId="1483" group="Musica", STINGRAY CONCERT
-http://172.16.0.5:8869/play/a0gw/index.m3u8
+#EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
+http://172.16.0.5:8869/play/a063/index.m3u8
+#EXTINF:0 type="stream" channelId="3780" group="Internacionales", NTN24
+http://172.16.0.5:8869/play/a0gp/index.m3u8
+#EXTINF:0 type="stream" channelId="2545" group="Internacionales", LATINA HD
+http://172.16.0.5:8869/play/a0gy/index.m3u8
+#EXTINF:0 type="stream" channelId="661" group="Internacionales", CANAL 24 HORAS HD
+http://172.16.0.5:8869/play/a0gz/index.m3u8
+#EXTINF:0 type="stream" channelId="3986" group="Internacionales", Canal 13 HD
+http://172.16.0.5:8869/play/a06i/index.m3u8
+#EXTINF:0 type="stream" channelId="2553" group="Internacionales", BETHEL TV
+http://172.16.0.5:8869/play/a0bd/index.m3u8
+#EXTINF:0 type="stream" channelId="3037" group="Internacionales", CHV HD
+http://172.16.0.5:8869/play/a09g/index.m3u8
+#EXTINF:0 type="stream" channelId="1972" group="Internacionales", CNN Español
+http://172.16.0.5:8869/play/a0j8/index.m3u8
+#EXTINF:0 type="stream" channelId="368" group="Internacionales", CUBAVISION
+http://172.16.0.5:8869/play/a0bc/index.m3u8
+#EXTINF:0 type="stream" channelId="3124" group="Internacionales", E! HD
+http://172.16.0.5:8869/play/a0an/index.m3u8
+#EXTINF:0 type="stream" channelId="310" group="Internacionales", El Gourmet HD
+http://172.16.0.5:8869/play/a0j6/index.m3u8
+#EXTINF:0 type="stream" channelId="1720" group="Internacionales", Food Network HD
+http://172.16.0.5:8000/play/a0cu/index.m3u8
+#EXTINF:0 type="stream" channelId="3713" group="Internacionales", HOLA TV HD
+http://172.16.0.5:8869/play/a09j/index.m3u8
+#EXTINF:0 type="stream" channelId="1745" group="Internacionales", La Red HD
+http://172.16.0.5:8869/play/a0jd/index.m3u8
+#EXTINF:0 type="stream" channelId="3174" group="Internacionales", TVN HD
+http://172.16.0.5:8869/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
+#EXTINF:0 type="stream" channelId="1484" group="Musica", HEI HD
+http://172.16.0.5:8869/play/a01e/index.m3u8
