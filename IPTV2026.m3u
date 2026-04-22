@@ -95,6 +95,8 @@ http://172.16.0.5:8869/play/a0j2/index.m3u8
 http://172.16.0.5:8869/play/a0iz/index.m3u8
 #EXTINF:0 type="stream" channelId="4661" group="Novelas", PASIONES
 http://172.16.0.5:8869/play/a0c5/index.m3u8
+#EXTINF:0 type="stream" channelId="4662" group="Novelas", Telemundo
+http://172.16.0.5:8869/play/a0z5/index.m3u8
 #EXTINF:0 type="stream" channelId="1044" group="Series", KANAL D DRAMA HD
 http://172.16.0.5:8869/play/a0gr/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="Series", AMC HD
@@ -145,6 +147,8 @@ http://172.16.0.5:8869/play/a071/index.m3u8
 http://172.16.0.5:8869/play/a0c2/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="Infantiles", PLIM PLIM
 http://172.16.0.5:8869/play/a024?ts
+#EXTINF:0 type="stream" channelId="1306" group="Infantiles", Baby TV
+http://172.16.0.5:8869/play/a01s?ts
 #EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
 http://172.16.0.5:8869/play/a0ar?ts
 #EXTINF:0 type="stream" channelId="2720" group="Infantiles", Disney Channel HD
@@ -191,3 +195,5 @@ http://172.16.0.5:8869/play/a0jd/index.m3u8
 http://172.16.0.5:8869/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
+#EXTINF:0 type="stream" channelId="1484" group="Musica", HEI HD
+http://172.16.0.5:8869/play/a01e/index.m3u8
