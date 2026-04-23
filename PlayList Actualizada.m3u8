@@ -17,13 +17,13 @@ http://172.16.0.4:8869/play/a0rn?ts
 http://172.16.0.5:8869/play/a04r?ts
 #EXTINF:0 type="stream" channelId="4786" group="Nacionales", TELECARIBE PLUS
 http://172.16.0.5:8869/play/a02y?ts
-#EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITYTV
+#EXTINF:0 type="stream" channelId="1409" group="Nacionales", CITYTV
 http://172.16.0.5:8869/play/a031?ts
-#EXTINF:0 type="stream" channelId="4791" group="Nacionales", CANAL CAPITAL
+#EXTINF:0 type="stream" channelId="4772" group="Nacionales", CANAL CAPITAL
 http://172.16.0.5:8869/play/a02v?ts
-#EXTINF:0 type="stream" channelId="4792" group="Nacionales", TELE ANTIOQUIA
+#EXTINF:0 type="stream" channelId="4745" group="Nacionales", TELE ANTIOQUIA
 http://172.16.0.5:8869/play/a02w?ts
-#EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
+#EXTINF:0 type="stream" channelId="3799" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
 http://172.16.0.5:8869/play/a13h/index.m3u8
@@ -69,9 +69,9 @@ http://172.16.0.5:8869/play/a09k/index.m3u8
 http://172.16.0.5:8869/play/a0iw/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Warner Channel HD
 http://172.16.0.5:8869/play/a0a9/index.m3u8
-#EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
+#EXTINF:0 type="stream" channelId="1214" group="Peliculas", Sony Movies HD
 http://172.16.0.5:8869/play/a0xj/index.m3u8
-#EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
@@ -111,8 +111,6 @@ http://172.16.0.5:8869/play/a067/index.m3u8
 http://172.16.0.5:8869/play/a0j5/index.m3u8
 #EXTINF:0 type="stream" channelId="2246" group="Series", AXN HD
 http://172.16.0.5:8869/play/a0ah?ts
-#EXTINF:0 type="stream" channelId="292" group="Series", MULTIPREMIER
-http://172.16.0.5:8869/play/a051/index.m3u8
 #EXTINF:0 type="stream" channelId="530" group="Series", Sony HD
 http://172.16.0.5:8869/play/a0a8/index.m3u8
 #EXTINF:0 type="stream" channelId="67" group="Series", TLC
@@ -151,9 +149,9 @@ http://172.16.0.5:8869/play/a064/index.m3u8
 http://172.16.0.5:8869/play/a071/index.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="Documentales", Discovery Turbo
 http://172.16.0.5:8869/play/a0c2/index.m3u8
-#EXTINF:0 type="stream" channelId="1305" group="Infantiles", PLIM PLIM
+#EXTINF:0 type="stream" channelId="-1" group="Infantiles", PLIM PLIM
 http://172.16.0.5:8869/play/a024?ts
-#EXTINF:0 type="stream" channelId="1306" group="Infantiles", Baby TV
+#EXTINF:0 type="stream" channelId="473" group="Infantiles", Baby TV
 http://172.16.0.5:8869/play/a01s?ts
 #EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
 http://172.16.0.5:8869/play/a0ar?ts
@@ -167,7 +165,7 @@ http://172.16.0.5:8869/play/a01y?ts
 http://172.16.0.5:8869/play/a0be?ts
 #EXTINF:0 type="stream" channelId="334" group="Infantiles", Nick HD
 http://172.16.0.5:8869/play/a0ag?ts
-#EXTINF:0 type="stream" channelId="-1" group="Infantiles", TOOMCAST
+#EXTINF:0 type="stream" channelId="2639" group="Infantiles", TOOMCAST
 http://172.16.0.5:8869/play/a0bu?ts
 #EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
 http://172.16.0.5:8869/play/a063/index.m3u8
@@ -201,5 +199,5 @@ http://172.16.0.5:8869/play/a0jd/index.m3u8
 http://172.16.0.5:8869/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="1484" group="Musica", HEI HD
+#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://share.google/ZdmLiDsHVEV54ZA7w", HEI HD
 http://172.16.0.5:8869/play/a01e/index.m3u8
