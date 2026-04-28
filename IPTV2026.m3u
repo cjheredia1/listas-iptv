@@ -73,6 +73,10 @@ http://172.16.0.5:8869/play/a0a9/index.m3u8
 http://172.16.0.5:8869/play/a0xj/index.m3u8
 #EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
+#EXTINF:0 type="stream" channelId="1264" group="Deportes", D SPORT HD
+http://172.16.0.4:8869/play/a034/index.m3u8
+#EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
+http://172.16.0.4:8869/play/a034/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
@@ -111,8 +115,6 @@ http://172.16.0.5:8869/play/a067/index.m3u8
 http://172.16.0.5:8869/play/a0j5/index.m3u8
 #EXTINF:0 type="stream" channelId="2246" group="Series", AXN HD
 http://172.16.0.5:8869/play/a0ah?ts
-#EXTINF:0 type="stream" channelId="292" group="Series", MULTIPREMIER
-http://172.16.0.5:8869/play/a051/index.m3u8
 #EXTINF:0 type="stream" channelId="530" group="Series", Sony HD
 http://172.16.0.5:8869/play/a0a8/index.m3u8
 #EXTINF:0 type="stream" channelId="67" group="Series", TLC
