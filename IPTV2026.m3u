@@ -73,7 +73,7 @@ http://172.16.0.5:8869/play/a0a9/index.m3u8
 http://172.16.0.5:8869/play/a0xj/index.m3u8
 #EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
-#EXTINF:0 type="stream" channelId="1264" group="Deportes", D SPORT HD
+#EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
 http://172.16.0.4:8869/play/a02y/index.m3u8
 #EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
 http://172.16.0.4:8869/play/a034/index.m3u8
