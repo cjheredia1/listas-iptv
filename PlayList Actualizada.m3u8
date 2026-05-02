@@ -1,29 +1,33 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD
+#EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD
 http://172.16.0.4:8869/play/a06q?ts
-#EXTINF:0 type="stream" channelId="3783" group="Nacionales", RCN Televisión
-http://172.16.0.4:8869/play/a07e?ts
-#EXTINF:0 type="stream" channelId="4788" group="Nacionales", Win Sports HD
-http://172.16.0.5:8869/play/a0j9?ts
-#EXTINF:0 type="stream" channelId="4789" group="Nacionales", Win Sports+ HD
-http://172.16.0.4:8869/play/a06g?ts
-#EXTINF:0 type="stream" channelId="4773" group="Nacionales", Caracol HD 2
+#EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD 
 http://172.16.0.5:8869/play/a001?ts
+#EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 2
+http://172.16.0.4:8869/play/a037?ts
+#EXTINF:0 type="stream" channelId="3783" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png", RCN Televisión
+http://172.16.0.4:8869/play/a07e?ts
+#EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN 2 Televisión
+http://172.16.0.4:8869/play/a03c?ts
+#EXTINF:0 type="stream" channelId="4788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png", Win Sports HD
+http://172.16.0.5:8869/play/a0j9?ts
+#EXTINF:0 type="stream" channelId="4789" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png", Win Sports+ HD
+http://172.16.0.4:8869/play/a06g?ts
 #EXTINF:0 type="stream" channelId="4649" group="Nacionales", CANAL INSTITUCIONAL HD
 http://172.16.0.4:8869/play/a0af?ts
 #EXTINF:0 type="stream" channelId="2488" group="Nacionales", Señal Colombia HD
 http://172.16.0.4:8869/play/a0rn?ts
-#EXTINF:0 type="stream" channelId="4785" group="Nacionales", TELECARIBE
-http://172.16.0.5:8869/play/a04r?ts
-#EXTINF:0 type="stream" channelId="4786" group="Nacionales", TELECARIBE PLUS
-http://172.16.0.5:8869/play/a02y?ts
-#EXTINF:0 type="stream" channelId="1409" group="Nacionales", CITYTV
+#EXTINF:0 type="stream" channelId="4785" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png", TELECARIBE HD
+http://172.16.0.4:8869/play/a04r?ts
+#EXTINF:0 type="stream" channelId="4786" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png", TELECARIBE PLUS HD
+http://172.16.0.4:8869/play/a02g?ts
+#EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITYTV
 http://172.16.0.5:8869/play/a031?ts
-#EXTINF:0 type="stream" channelId="4772" group="Nacionales", CANAL CAPITAL
+#EXTINF:0 type="stream" channelId="4791" group="Nacionales", CANAL CAPITAL
 http://172.16.0.5:8869/play/a02v?ts
-#EXTINF:0 type="stream" channelId="4745" group="Nacionales", TELE ANTIOQUIA
+#EXTINF:0 type="stream" channelId="4792" group="Nacionales", TELE ANTIOQUIA
 http://172.16.0.5:8869/play/a02w?ts
-#EXTINF:0 type="stream" channelId="3799" group="Nacionales", TV AGRO
+#EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
 http://172.16.0.5:8869/play/a13h/index.m3u8
@@ -69,10 +73,14 @@ http://172.16.0.5:8869/play/a09k/index.m3u8
 http://172.16.0.5:8869/play/a0iw/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Warner Channel HD
 http://172.16.0.5:8869/play/a0a9/index.m3u8
-#EXTINF:0 type="stream" channelId="1214" group="Peliculas", Sony Movies HD
+#EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
 http://172.16.0.5:8869/play/a0xj/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Peliculas", De Peliculas HD
+#EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
+#EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
+http://172.16.0.4:8869/play/a02y/index.m3u8
+#EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
+http://172.16.0.4:8869/play/a034/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
@@ -149,9 +157,9 @@ http://172.16.0.5:8869/play/a064/index.m3u8
 http://172.16.0.5:8869/play/a071/index.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="Documentales", Discovery Turbo
 http://172.16.0.5:8869/play/a0c2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Infantiles", PLIM PLIM
+#EXTINF:0 type="stream" channelId="1305" group="Infantiles", PLIM PLIM
 http://172.16.0.5:8869/play/a024?ts
-#EXTINF:0 type="stream" channelId="473" group="Infantiles", Baby TV
+#EXTINF:0 type="stream" channelId="1306" group="Infantiles", Baby TV
 http://172.16.0.5:8869/play/a01s?ts
 #EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
 http://172.16.0.5:8869/play/a0ar?ts
@@ -165,7 +173,7 @@ http://172.16.0.5:8869/play/a01y?ts
 http://172.16.0.5:8869/play/a0be?ts
 #EXTINF:0 type="stream" channelId="334" group="Infantiles", Nick HD
 http://172.16.0.5:8869/play/a0ag?ts
-#EXTINF:0 type="stream" channelId="2639" group="Infantiles", TOOMCAST
+#EXTINF:0 type="stream" channelId="-1" group="Infantiles", TOOMCAST
 http://172.16.0.5:8869/play/a0bu?ts
 #EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
 http://172.16.0.5:8869/play/a063/index.m3u8
@@ -199,5 +207,5 @@ http://172.16.0.5:8869/play/a0jd/index.m3u8
 http://172.16.0.5:8869/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://share.google/ZdmLiDsHVEV54ZA7w", HEI HD
+#EXTINF:0 type="stream" channelId="1484" group="Musica", HEI HD
 http://172.16.0.5:8869/play/a01e/index.m3u8
