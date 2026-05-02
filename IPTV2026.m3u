@@ -3,11 +3,11 @@
 http://172.16.0.4:8869/play/a06q?ts
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD 
 http://172.16.0.5:8869/play/a001?ts
-#EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 
+#EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 2
 http://172.16.0.4:8869/play/a037?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png", RCN Televisión
 http://172.16.0.4:8869/play/a07e?ts
-#EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN Televisión
+#EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN 2 Televisión
 http://172.16.0.4:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4788" group="Nacionales", Win Sports HD
 http://172.16.0.5:8869/play/a0j9?ts
