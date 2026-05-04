@@ -13,9 +13,9 @@ http://172.16.0.4:8869/play/a03c?ts
 http://172.16.0.5:8869/play/a0j9?ts
 #EXTINF:0 type="stream" channelId="4789" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png", Win Sports+ HD
 http://172.16.0.4:8869/play/a06g?ts
-#EXTINF:0 type="stream" channelId="4649" group="Nacionales", CANAL INSTITUCIONAL HD
+#EXTINF:0 type="stream" channelId="4649" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/CanalInstitucional2025.png", CANAL INSTITUCIONAL HD
 http://172.16.0.4:8869/play/a0af?ts
-#EXTINF:0 type="stream" channelId="2488" group="Nacionales", Señal Colombia HD
+#EXTINF:0 type="stream" channelId="2488" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia HD
 http://172.16.0.4:8869/play/a0rn?ts
 #EXTINF:0 type="stream" channelId="4785" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png", TELECARIBE HD
 http://172.16.0.4:8869/play/a04r?ts
@@ -29,10 +29,10 @@ http://172.16.0.5:8869/play/a02v?ts
 http://172.16.0.5:8869/play/a02w?ts
 #EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
-#EXTINF:0 type="stream" channelId="4031" group="Nacionales", Nuestra Tele
-http://172.16.0.5:8869/play/a13h/index.m3u8
-#EXTINF:0 type="stream" channelId="4775" group="Nacionales", Canal 1
-http://172.16.0.5:8869/play/a0gu/index.m3u8
+#EXTINF:0 type="stream" channelId="4031" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/La_Kalle_Colombia_2025_logo.svg", LA KALLE
+http://172.16.0.4:8869/play/a13h/index.m3u8
+#EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg", Canal 1
+http://172.16.0.4:8869/play/a0gu/index.m3u8
 #EXTINF:0 type="stream" channelId="2725" group="Peliculas", HBO MUVDI
 http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Peliculas", Cinecanal HD
@@ -177,8 +177,6 @@ http://172.16.0.5:8869/play/a0ag?ts
 http://172.16.0.5:8869/play/a0bu?ts
 #EXTINF:0 type="stream" channelId="3985" group="Internacionales", MEGA HD
 http://172.16.0.5:8869/play/a063/index.m3u8
-#EXTINF:0 type="stream" channelId="3780" group="Internacionales", NTN24
-http://172.16.0.5:8869/play/a0gp/index.m3u8
 #EXTINF:0 type="stream" channelId="2545" group="Internacionales", LATINA HD
 http://172.16.0.5:8869/play/a0gy/index.m3u8
 #EXTINF:0 type="stream" channelId="661" group="Internacionales", CANAL 24 HORAS HD
