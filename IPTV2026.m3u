@@ -21,8 +21,6 @@ http://172.16.0.4:8869/play/a0rn?ts
 http://172.16.0.4:8869/play/a04r?ts
 #EXTINF:0 type="stream" channelId="4786" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png", TELECARIBE PLUS HD
 http://172.16.0.4:8869/play/a02g?ts
-#EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITYTV
-http://172.16.0.5:8869/play/a031?ts
 #EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/La_Kalle_Colombia_2025_logo.svg", LA KALLE
@@ -140,7 +138,7 @@ http://172.16.0.5:8869/play/a074/index.m3u8
 #EXTINF:0 type="stream" channelId="2890" group="Documentales", Discovery World HD
 http://172.16.0.5:8869/play/a065/index.m3u8
 #EXTINF:0 type="stream" channelId="1202" group="Documentales", History 2 HD
-http://172.16.0.5:8869/play/a06v/index.m3u8
+http://172.16.0.5:8869/play/a06v?ts
 #EXTINF:0 type="stream" channelId="1456" group="Documentales", History Channel HD
 http://172.16.0.5:8869/play/a0cl/index.m3u8
 #EXTINF:0 type="stream" channelId="3770" group="Documentales", Investigation Discovery HD
