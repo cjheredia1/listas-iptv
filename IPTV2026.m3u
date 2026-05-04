@@ -23,10 +23,6 @@ http://172.16.0.4:8869/play/a04r?ts
 http://172.16.0.4:8869/play/a02g?ts
 #EXTINF:0 type="stream" channelId="4787" group="Nacionales", CITYTV
 http://172.16.0.5:8869/play/a031?ts
-#EXTINF:0 type="stream" channelId="4791" group="Nacionales", CANAL CAPITAL
-http://172.16.0.5:8869/play/a02v?ts
-#EXTINF:0 type="stream" channelId="4792" group="Nacionales", TELE ANTIOQUIA
-http://172.16.0.5:8869/play/a02w?ts
 #EXTINF:0 type="stream" channelId="4790" group="Nacionales", TV AGRO
 http://172.16.0.5:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4031" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/La_Kalle_Colombia_2025_logo.svg", LA KALLE
