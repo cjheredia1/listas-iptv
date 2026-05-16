@@ -12,7 +12,7 @@ http://172.16.0.4:8869/play/a03c?ts
 #EXTINF:0 type="stream" channelId="4788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png", Win Sports HD
 http://172.16.0.5:8869/play/a0j9?ts
 #EXTINF:0 type="stream" channelId="4789" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1280px-Win_Sports%2B_logo.svg.png", Win Sports+ HD
-http://172.16.0.4:8869/play/a06g?ts
+http://172.16.0.5:8869/play/a06g?ts
 #EXTINF:0 type="stream" channelId="4649" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/CanalInstitucional2025.png", CANAL INSTITUCIONAL HD
 http://172.16.0.4:8869/play/a0af?ts
 #EXTINF:0 type="stream" channelId="2488" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png", Señal Colombia HD
