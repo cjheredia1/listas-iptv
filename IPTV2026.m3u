@@ -39,6 +39,10 @@ http://172.16.0.5:8869/play/a07c/index.m3u8
 http://172.16.0.5:8869/play/a0al/index.m3u8
 #EXTINF:0 type="stream" channelId="2502" group="Peliculas", GOLDEN EDGE HD
 http://172.16.0.5:8869/play/a0tl/index.m3u8
+#EXTINF:0 type="stream" channelId="1963" group="Peliculas", Golden Premier HD
+http://172.16.0.5:8869/play/a068/index.m3u8
+#EXTINF:0 type="stream" channelId="2503" group="Peliculas", Golden Premier 2 HD
+http://172.16.0.5:8869/play/a069/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
 http://172.16.0.5:8869/play/a05r/index.m3u8
 #EXTINF:0 type="stream" channelId="1331" group="Peliculas", HBO2 HD
