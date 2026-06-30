@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
-http://172.16.0.4:8869/play/a02y/index.m3u8
+http://172.16.0.4:8869/play/a02y?ts
 #EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
 http://172.16.0.4:8869/play/a034/index.m3u8
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD
