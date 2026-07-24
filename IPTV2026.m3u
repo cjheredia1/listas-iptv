@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
-http://172.16.0.4:8869/play/a02y?ts
-#EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
-http://172.16.0.4:8869/play/a034/index.m3u8
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD
 http://172.16.0.4:8869/play/a06q?ts
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD 
 http://172.16.0.5:8869/play/a001?ts
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 2
 http://172.16.0.4:8869/play/a037?ts
+#EXTINF:0 type="stream" channelId="4795" group="Nacionales", CARACOL MIX
+http://172.16.0.5:8869/play/a045?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png", RCN Televisión
 http://172.16.0.4:8869/play/a07e?ts
 #EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN 2 Televisión
@@ -79,6 +77,10 @@ http://172.16.0.5:8869/play/a0a9/index.m3u8
 http://172.16.0.5:8869/play/a0xj/index.m3u8
 #EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
+#EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
+http://172.16.0.4:8869/play/a02y?ts
+#EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
+http://172.16.0.4:8869/play/a034/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
