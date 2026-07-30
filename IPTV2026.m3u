@@ -32,13 +32,13 @@ http://172.16.0.4:8869/play/a0gu/index.m3u8
 #EXTINF:0 type="stream" channelId="2725" group="Peliculas", HBO MUVDI
 http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Peliculas", Cinecanal HD
-http://172.16.0.5:8869/play/a066/index.m3u8
+http://172.16.0.5:8869/play/a066?ts
 #EXTINF:0 type="stream" channelId="3743" group="Peliculas", DHE HD
 http://172.16.0.5:8869/play/a06s/index.m3u8
 #EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
-http://172.16.0.5:8869/play/a07c/index.m3u8
+http://172.16.0.5:8869/play/a07c?ts
 #EXTINF:0 type="stream" channelId="1962" group="Peliculas", Golden HD
-http://172.16.0.5:8869/play/a0al/index.m3u8
+http://172.16.0.5:8869/play/a0a1?ts
 #EXTINF:0 type="stream" channelId="2502" group="Peliculas", GOLDEN EDGE HD
 http://172.16.0.5:8869/play/a0tl/index.m3u8
 #EXTINF:0 type="stream" channelId="1963" group="Peliculas", Golden Premier HD
@@ -46,35 +46,35 @@ http://172.16.0.5:8869/play/a068/index.m3u8
 #EXTINF:0 type="stream" channelId="2503" group="Peliculas", Golden Premier 2 HD
 http://172.16.0.5:8869/play/a069/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="Peliculas", HBO HD
-http://172.16.0.5:8869/play/a05r/index.m3u8
+http://172.16.0.5:8869/play/a05r?ts
 #EXTINF:0 type="stream" channelId="1331" group="Peliculas", HBO2 HD
 http://172.16.0.4:8869/play/a02z?ts
 #EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
-http://172.16.0.5:8869/play/a06w/index.m3u8
+http://172.16.0.5:8869/play/a06w?ts
 #EXTINF:0 type="stream" channelId="2583" group="Peliculas", HBO Signature
 http://172.16.0.5:8869/play/a10a/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO PLUS
 http://172.16.0.5:8869/play/a06f/index.m3u8
 #EXTINF:0 type="stream" channelId="361" group="Peliculas", HBO POP HD
-http://172.16.0.5:8869/play/a0fg/index.m3u8
+http://172.16.0.5:8869/play/a0fg?ts
 #EXTINF:0 type="stream" channelId="2587" group="Peliculas", HBO XTREME HD
-http://172.16.0.5:8869/play/a06x/index.m3u8
+http://172.16.0.5:8869/play/a06x?ts
 #EXTINF:0 type="stream" channelId="1326" group="Peliculas", CINEMAX
-http://172.16.0.5:8869/play/a09o/index.m3u8
+http://172.16.0.5:8869/play/a09o?ts
 #EXTINF:0 type="stream" channelId="177" group="Peliculas", STAR CHANNEL HD
-http://172.16.0.5:8869/play/a06n/index.m3u8
+http://172.16.0.5:8869/play/a06n?ts
 #EXTINF:0 type="stream" channelId="2896" group="Peliculas", Space HD
-http://172.16.0.5:8869/play/a0ab/index.m3u8
+http://172.16.0.5:8869/play/a0ab?ts
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", Studio Universal HD
 http://172.16.0.5:8869/play/a03q?ts
 #EXTINF:0 type="stream" channelId="2900" group="Peliculas", TNT HD
-http://172.16.0.5:8869/play/a09k/index.m3u8
+http://172.16.0.5:8869/play/a09k?ts
 #EXTINF:0 type="stream" channelId="2147" group="Peliculas", UNIVERSAL CHANNEL HD
-http://172.16.0.5:8869/play/a0iw/index.m3u8
+http://172.16.0.5:8869/play/a0iw?ts
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Warner Channel HD
-http://172.16.0.5:8869/play/a0a9/index.m3u8
+http://172.16.0.5:8869/play/a0a9?ts
 #EXTINF:0 type="stream" channelId="2903" group="Peliculas", Sony Movies HD
-http://172.16.0.5:8869/play/a0xj/index.m3u8
+http://172.16.0.5:8869/play/a0xj?ts
 #EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
 #EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
