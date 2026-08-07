@@ -34,7 +34,7 @@ http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Peliculas", Cinecanal HD
 http://172.16.0.5:8869/play/a066?ts
 #EXTINF:0 type="stream" channelId="3743" group="Peliculas", DHE HD
-http://172.16.0.5:8869/play/a06s/index.m3u8
+http://172.16.0.5:8869/play/a06s?ts
 #EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
 http://172.16.0.5:8869/play/a07c?ts
 #EXTINF:0 type="stream" channelId="1962" group="Peliculas", Golden HD
