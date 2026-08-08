@@ -206,4 +206,4 @@ http://172.16.0.5:8869/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", MTV HD
 http://172.16.0.5:8869/play/a0j1/index.m3u8
 #EXTINF:0 type="stream" channelId="1484" group="Musica", HEI HD
-http://172.16.0.5:8869/play/a01e/index.m3u8
+http://172.16.0.5:8869/play/a01e?ts
