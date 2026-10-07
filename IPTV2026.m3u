@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD
+udp://239.1.1.2:10001
+#EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD
 http://172.16.0.4:8869/play/a06q?ts
 #EXTINF:0 type="stream" channelId="4773" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png", Caracol HD 
 http://172.16.0.5:8869/play/a001?ts
