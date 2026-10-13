@@ -78,9 +78,9 @@ http://172.16.0.5:8869/play/a0xj?ts
 #EXTINF:0 type="stream" channelId="2148" group="Peliculas", De Peliculas HD
 http://172.16.0.5:8869/play/a03r?ts
 #EXTINF:0 type="stream" channelId="1264" group="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", D SPORT HD
-http://172.16.0.5:8869/play/a042/index.m3u8
+http://172.16.0.4:8869/play/a02y?ts
 #EXTINF:0 type="stream" channelId="1265" group="Deportes", D SPORT 2 HD
-http://172.16.0.5:8869/play/a043/index.m3u8
+http://172.16.0.5:8869/play/a034?ts
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
 http://172.16.0.5:8869/play/a08p?ts
 #EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN COL HD
@@ -92,15 +92,13 @@ http://172.16.0.5:8869/play/a0gf?ts
 #EXTINF:0 type="stream" channelId="1432" group="Deportes", ESPN 4 HD
 http://172.16.0.5:8869/play/a0fb?ts
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 5HD
-http://172.16.0.5:8869/play/a08m/index.m3u8
+http://172.16.0.5:8869/play/a08m?ts
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 6 HD
-http://172.16.0.5:8869/play/a0gg/index.m3u8
+http://172.16.0.5:8869/play/a0gg?ts
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN 7HD
-http://172.16.0.5:8869/play/a0ep/index.m3u8
+http://172.16.0.5:8869/play/a0ep?ts
 #EXTINF:0 type="stream" channelId="2540" group="Deportes", ESPN Premium HD
-http://172.16.0.5:8869/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT Sports Premiun HD
-http://172.16.0.5:8869/play/a0ac?ts
+http://172.16.0.5:8869/play/a091?ts
 #EXTINF:0 type="stream" channelId="1497" group="Deportes", TyC Sports HD
 http://172.16.0.5:8869/play/a03a?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
