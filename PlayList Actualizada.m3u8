@@ -107,6 +107,8 @@ http://172.16.0.5:8869/play/a0iz/index.m3u8
 http://172.16.0.5:8869/play/a0c5/index.m3u8
 #EXTINF:0 type="stream" channelId="4662" group="Novelas", Telemundo
 http://172.16.0.5:8869/play/a0z5/index.m3u8
+#EXTINF:0 type="stream" channelId="4795" group="Novelas", RCN NOVELAS
+http://172.16.0.5:8869/play/a146?ts
 #EXTINF:0 type="stream" channelId="1044" group="Series", KANAL D DRAMA HD
 http://172.16.0.5:8869/play/a0gr/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="Series", AMC HD
