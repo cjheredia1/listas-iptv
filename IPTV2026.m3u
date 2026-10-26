@@ -5,8 +5,6 @@ http://172.16.0.4:8869/play/a06q?ts
 http://172.16.0.5:8869/play/a001?ts
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 2
 http://172.16.0.4:8869/play/a037?ts
-#EXTINF:0 type="stream" channelId="4795" group="Nacionales", MLB NETWORKS
-http://172.16.0.5:8869/play/a0gf?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png", RCN Televisión
 http://172.16.0.4:8869/play/a07e?ts
 #EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN 2 Televisión
@@ -111,6 +109,8 @@ http://172.16.0.5:8869/play/a0iz/index.m3u8
 http://172.16.0.5:8869/play/a0c5/index.m3u8
 #EXTINF:0 type="stream" channelId="4662" group="Novelas", Telemundo
 http://172.16.0.5:8869/play/a0z5/index.m3u8
+#EXTINF:0 type="stream" channelId="4795" group="Novelas", RCN NOVELAS
+http://172.16.0.5:8869/play/a146?ts
 #EXTINF:0 type="stream" channelId="1044" group="Series", KANAL D DRAMA HD
 http://172.16.0.5:8869/play/a0gr/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="Series", AMC HD
