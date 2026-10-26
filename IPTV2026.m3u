@@ -48,9 +48,9 @@ http://172.16.0.4:8869/play/a02z?ts
 #EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
 http://172.16.0.5:8869/play/a06w?ts
 #EXTINF:0 type="stream" channelId="2583" group="Peliculas", TCM
-http://172.16.0.5:8869/play/a10a/index.m3u8
-#EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO PLUS
-http://172.16.0.5:8869/play/a06f/index.m3u8
+http://172.16.0.5:8869/play/a10a?ts
+#EXTINF:0 type="stream" channelId="2585" group="Peliculas", CLOVER
+http://172.16.0.5:8869/play/a048?ts
 #EXTINF:0 type="stream" channelId="361" group="Peliculas", HBO POP HD
 http://172.16.0.5:8869/play/a0fg?ts
 #EXTINF:0 type="stream" channelId="2587" group="Peliculas", HBO XTREME HD
