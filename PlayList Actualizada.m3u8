@@ -47,7 +47,7 @@ http://172.16.0.5:8869/play/a05r?ts
 http://172.16.0.4:8869/play/a02z?ts
 #EXTINF:0 type="stream" channelId="2584" group="Peliculas", HBO Family HD
 http://172.16.0.5:8869/play/a06w?ts
-#EXTINF:0 type="stream" channelId="2583" group="Peliculas", HBO Signature
+#EXTINF:0 type="stream" channelId="2583" group="Peliculas", TCM
 http://172.16.0.5:8869/play/a10a/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="Peliculas", HBO PLUS
 http://172.16.0.5:8869/play/a06f/index.m3u8
