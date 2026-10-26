@@ -5,8 +5,6 @@ http://172.16.0.4:8869/play/a06q?ts
 http://172.16.0.5:8869/play/a001?ts
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://images.seeklogo.com/logo-png/48/2/caracol-television-hd2-logo-png_seeklogo-483831.png", Caracol HD 2
 http://172.16.0.4:8869/play/a037?ts
-#EXTINF:0 type="stream" channelId="4795" group="Nacionales", MLB NETWORKS
-http://172.16.0.5:8869/play/a045?ts
 #EXTINF:0 type="stream" channelId="3783" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png", RCN Televisión
 http://172.16.0.4:8869/play/a07e?ts
 #EXTINF:0 type="stream" channelId="3788" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN 2 Televisión
@@ -29,8 +27,6 @@ http://172.16.0.5:8869/play/a03c?ts
 http://172.16.0.4:8869/play/a13h/index.m3u8
 #EXTINF:0 type="stream" channelId="4775" group="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg", Canal 1
 http://172.16.0.4:8869/play/a0gu/index.m3u8
-#EXTINF:0 type="stream" channelId="2725" group="Peliculas", HBO MUVDI
-http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Peliculas", Cinecanal HD
 http://172.16.0.5:8869/play/a066?ts
 #EXTINF:0 type="stream" channelId="3743" group="Peliculas", DHE HD
@@ -103,6 +99,8 @@ http://172.16.0.5:8869/play/a091?ts
 http://172.16.0.5:8869/play/a03a?ts
 #EXTINF:0 type="stream" channelId="2287" group="Novelas", LAS ESTRELLAS HD
 http://172.16.0.5:8869/play/a0j2/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Novelas", TELENOVELAS
+http://172.16.0.5:8869/play/a10b/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" group="Novelas", TNT NOVELAS HD
 http://172.16.0.5:8869/play/a0iz/index.m3u8
 #EXTINF:0 type="stream" channelId="4661" group="Novelas", PASIONES
