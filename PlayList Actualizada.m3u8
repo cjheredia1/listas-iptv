@@ -33,6 +33,12 @@ http://172.16.0.5:8869/play/a066?ts
 http://172.16.0.5:8869/play/a06s/index.m3u8
 #EXTINF:0 type="stream" channelId="1304" group="Peliculas", FX HD
 http://172.16.0.5:8869/play/a07c?ts
+#EXTINF:0 type="stream" channelId="2504" group="Peliculas", UNIVERSAL CINEMA HD
+http://172.16.0.5:8869/play/a04k/index.m3u8
+#EXTINF:0 type="stream" channelId="2505" group="Peliculas", UNIVERSAL PREMIER HD
+http://172.16.0.5:8869/play/a04l/index.m3u8
+#EXTINF:0 type="stream" channelId="2506" group="Peliculas", UNIVERSAL REALITY HD
+http://172.16.0.5:8869/play/a04m/index.m3u8
 #EXTINF:0 type="stream" channelId="1962" group="Peliculas", Golden HD
 http://172.16.0.5:8869/play/a0a1?ts
 #EXTINF:0 type="stream" channelId="2502" group="Peliculas", GOLDEN EDGE HD
